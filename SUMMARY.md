@@ -1,6 +1,6 @@
 # Table of contents
 
-* [1장 미티어 소개](README.md)
+* [개요](README.md)
 * [1장 미티어 소개](1.md)
 * [2장 개발 환경 설정](2.md)
 * [3장 주소록 만들기](3.md)
